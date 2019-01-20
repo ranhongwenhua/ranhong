@@ -1,4 +1,4 @@
-###内蒙古冉红文化传媒有限公司
+内蒙古冉红文化传媒有限公司
 
 You can use the [editor on GitHub](https://github.com/ranhongwenhua/ranhongwenhua.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -18,35 +18,67 @@ QQ：2395230440
 开户银行：中国农业银行股份有限公司包头稀土高新支行
 --------------------------------------------------------------------------------------------
 
+▉出版策划、咨询
+提供出版策划、咨询服务，帮助您完善选题：为好书找出版社、为出版社找好书。
+▉录入
+提供繁体字、手稿、古文字、小草等繁难文稿的录入。
+常规简体字，5元/千字，视难度议价。
+▉校对
+本公司尤其擅长繁简体古籍、文史图书的校对。
+开发了“红马繁体校对软件”。（介绍见后）
+▉编辑
+精通office vba编程，对word、excel等office文件进行自动化批处理；
+熟悉图书编辑各项规则，能够对标题层级、标点、数字用法、文字等，进行规范化处理。
+▉排版
+擅长古籍文献、字典词典、学术专著、论著索引、简谱等书稿的排版。
+精通方正书版、方正飞腾、indesign等排版软件；
+能辅助责任编辑进行复杂的定向性批量修改；
+熟悉illustrator、Photoshop等制图软件。
+16开 10元/面
+32开 5元/面
+具体收费，视难度情况协商。
+▉造字
+制作可供word、方正书版等使用的ttf字体。
+▉索引
+书后索引
+为学术专著、文史、古籍等图书，制作书后所附的人名、地名等专名索引。
+论著索引
+制作工具书型的索引，如《建国以来蒙古史研究论著索引》。
+▉数字化
+精通图书数字化，尤其是epub格式电子书的编辑、制作，开发了“word转换epub工作流程”。
+===============================================================================
+红马繁体校对系统介绍
+-----------------------------------------------------------------------------------
+本软件专门用于校对繁体字书稿、简化字古籍书稿。
+本软件在古籍文献整理实践基础上，积累了大量的词例，用于扫描、校对文史书稿，能够大大减少编辑工作中的重复劳动，避免人眼疲劳导致的校读遗漏。
+-----------------------------------------------------------------------------------
+▉用字辨析：《古汉语常用字字典》《汉语大字典》《现代汉语词典》等。
+▉字形标准：国务院最新发布的《通用规范字表》（2013年）。
+▉支持格式：word、方正小样fbd文件、indesign文件等。
+▉服务项目：
+★扫描、修改项目包括：
+1.繁体字书稿中误植的简化字；
+2.改正旧字形为新字形：如說——説
+3.改正废除的异体字为通用字形；
+4.繁体字中的区别字形，录入错误者，如前後、皇后
+5.繁体转简体，转不过去者：如沈浸——沉浸
+6.繁体转简体，转错者：如著录——着录
+7.简体转繁体的错误：
+人云——人雲
+万俟——萬俟
+丰彩——豐彩
+★生成勘误对照表：
+1.扫描正文（正文不做修改），以不同颜色区分不同类别的修改项目。
+2.生成excel格式的勘误对照表，供编辑参考。
+3.根据编辑确定的勘误对照表，修改word。
+★修改word、小样等文件：
+提供word等文件的直接修改，将不同类别的修改之处，以不同颜色区分。
+★用字查频：
+生成excel格式的用字频率表，供编辑参考。
+▉收费标准：
+1.20万字，1元/千字
+2.20万字以上大书稿，价格协商
+3.需要人工通读通校的书稿，价格协商
+4.本公司专门从事文史书籍的排版、索引制作，古籍数字化epub制作等业务，有排版等合作的书稿，提供免费扫描。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ranhongwenhua/ranhongwenhua.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
