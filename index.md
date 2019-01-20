@@ -1,7 +1,5 @@
 内蒙古冉红文化传媒有限公司
 
-You can use the [editor on GitHub](https://github.com/ranhongwenhua/ranhongwenhua.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
 为您解决复杂排版问题
 出版策划、编辑校对、排版设计，竭诚为您服务
 本公司位于内蒙古自治区包头市。是一家专门从事图书编辑、排版等业务的文化企业。
