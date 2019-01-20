@@ -2,7 +2,22 @@
 
 You can use the [editor on GitHub](https://github.com/ranhongwenhua/ranhongwenhua.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+为您解决复杂排版问题
+出版策划、编辑校对、排版设计，竭诚为您服务
+本公司位于内蒙古自治区包头市。是一家专门从事图书编辑、排版等业务的文化企业。
+本公司员工，技术精湛，经验丰富，注重细节；熟悉C++、vb、python、JavaScript、xml等编程语言，具备数据库知识，能够进行批量化、工程级、复杂度高的图书文献加工工作。
+----------------------------------
+联系方式：
+李先生
+QQ：2395230440
+手机：187 4710 9252
+名称：内蒙古冉红文化传媒有限公司
+税号：91150204MA0Q4C1958
+税率：3%
+账号：05633101040023450
+开户银行：中国农业银行股份有限公司包头稀土高新支行
+--------------------------------------------------------------------------------------------
+
 
 ### Markdown
 
